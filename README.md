@@ -40,6 +40,7 @@ Stay tuned for updates as Ryuuguuin evolves into a robust manga reader.
 ## Acknowledgements
 
 I would like to express my gratitude to the creators of Tachiyomi, & Aniyomi which inspired this project. Additionally, a special thanks to the anime character Seiya Ryuuguuin for being a constant source of inspiration, the name's a tribute to him, hehe.
+Also, a great thanks to my another project [SenPY](https://github.com/FireHead90544/SenPY) which is made specifically for downloading animes :)
 
 ## License
 
